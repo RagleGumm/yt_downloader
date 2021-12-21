@@ -1,2 +1,2 @@
-pytube==11.0.1
+pytube==11.0.2
 ffmpeg-python==0.2.0
